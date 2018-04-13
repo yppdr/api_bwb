@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-bewebapi",
+  "version": "1.0.0",
+  "description": "Simpleapi pour beweb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Yannis Piot Pilot",
+    "email": "yannis@jaipasd.email",
+    "url": "https://piotpilot.eu"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mysql": "^2.13.0"
+  }
+}
